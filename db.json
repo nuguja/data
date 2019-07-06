@@ -1,4 +1,4 @@
-[
+{"variables":[
         {
             "id":"PASSYPP",
             "title":"Pass Yds p/Pt",
@@ -95,4 +95,4 @@
             "selected":"6",
             "option":['H','M','L']
         },
-    ]
+    ]}
