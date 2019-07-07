@@ -95,5 +95,139 @@
 			"selected": "6",
 			"option": ["H", "M", "L"]
 		}
-	]
+	],
+	"teams": {
+		"t1p1": {
+			"player": "",
+			"score": ""
+		},
+		"t1p2": {
+			"player": "",
+			"score": ""
+		},
+		"t1p3": {
+			"player": "",
+			"score": ""
+		},
+		"t1p4": {
+			"player": "",
+			"score": ""
+		},
+		"t1p5": {
+			"player": "",
+			"score": ""
+		},
+		"t1p6": {
+			"player": "",
+			"score": ""
+		},
+		"t1p7": {
+			"player": "",
+			"score": ""
+		},
+		"t1p8": {
+			"player": "",
+			"score": ""
+		},
+
+		"t2p1": {
+			"player": "",
+			"score": ""
+		},
+		"t2p2": {
+			"player": "",
+			"score": ""
+		},
+		"t2p3": {
+			"player": "",
+			"score": ""
+		},
+		"t2p4": {
+			"player": "",
+			"score": ""
+		},
+		"t2p5": {
+			"player": "",
+			"score": ""
+		},
+		"t2p6": {
+			"player": "",
+			"score": ""
+		},
+		"t2p7": {
+			"player": "",
+			"score": ""
+		},
+		"t2p8": {
+			"player": "",
+			"score": ""
+		},
+
+		"t3p1": {
+			"player": "",
+			"score": ""
+		},
+		"t3p2": {
+			"player": "",
+			"score": ""
+		},
+		"t3p3": {
+			"player": "",
+			"score": ""
+		},
+		"t3p4": {
+			"player": "",
+			"score": ""
+		},
+		"t3p5": {
+			"player": "",
+			"score": ""
+		},
+		"t3p6": {
+			"player": "",
+			"score": ""
+		},
+		"t3p7": {
+			"player": "",
+			"score": ""
+		},
+		"t3p8": {
+			"player": "",
+			"score": ""
+		},
+
+		"t4p1": {
+			"player": "",
+			"score": ""
+		},
+		"t4p2": {
+			"player": "",
+			"score": ""
+		},
+		"t4p3": {
+			"player": "",
+			"score": ""
+		},
+		"t4p4": {
+			"player": "",
+			"score": ""
+		},
+		"t4p5": {
+			"player": "",
+			"score": ""
+		},
+		"t4p6": {
+			"player": "",
+			"score": ""
+		},
+		"t4p7": {
+			"player": "",
+			"score": ""
+		},
+		"t4p8": {
+			"player": "",
+			"score": ""
+		}
+	},
+	"players": ["asutosh", "ajaya", "bijay", "binod", "kiran", "komal", "hasina", "dena", "john", "johhny", "markus", "magnus", "arnold", "crome", "craige", "doma", "harison", "zorb", "jira", "zebra", "corwn", "juber", "van", "korb", "monkey", "donkey"]
 }
