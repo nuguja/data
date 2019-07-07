@@ -1,0 +1,233 @@
+{
+	"variables": [{
+			"id": "PASSYPP",
+			"title": "Pass Yds p/Pt",
+			"selected": "25",
+			"option": [25, 20, 10]
+		},
+		{
+			"id": "RUSHYPP",
+			"title": "Rush Yds p/Pt",
+			"selected": "10",
+			"option": [10]
+		},
+		{
+			"id": "RECYPP",
+			"title": "Rec Yds p/Pt",
+			"selected": "10",
+			"option": [10]
+		},
+		{
+			"id": "PASSTD",
+			"title": "Pts p/Pass TD",
+			"selected": "4",
+			"option": [6, 4]
+		},
+		{
+			"id": "INT",
+			"title": "Int. Penalty",
+			"selected": "-1",
+			"option": [0, -1, -2, -4]
+		},
+		{
+			"id": "RUSHTD",
+			"title": "Pts p/Rush TD",
+			"selected": "6",
+			"option": [10, 6, 4]
+		},
+		{
+			"id": "FUM",
+			"title": "Fum Penalty",
+			"selected": "-2",
+			"option": [0, -1, -2, -4]
+		},
+		{
+			"id": "RECTD",
+			"title": "Pts p/Rec TD",
+			"selected": "6",
+			"option": [6, 4]
+		},
+		{
+			"id": "REC",
+			"title": "Rec Yds/Pt",
+			"selected": "1",
+			"option": [2, 1.5, 1, 0.5, 0]
+		},
+		{
+			"id": "DYN",
+			"title": "Dynasty",
+			"selected": "6",
+			"option": ["Yes", "No", "Empire"]
+		},
+		{
+			"id": "NUMTEAM",
+			"title": "Number of TEs",
+			"selected": "14",
+			"option": [32, 16, 14, 12, 10, 8]
+		},
+		{
+			"id": "NUMQB",
+			"title": "Number of QBs",
+			"selected": "1",
+			"option": [2, 1]
+		},
+		{
+			"id": "NUMRB",
+			"title": "Number of RBs",
+			"selected": "2",
+			"option": [3, 2, 1]
+		},
+		{
+			"id": "NUMWR",
+			"title": "Number of WRs",
+			"selected": "3",
+			"option": [4, 3, 2, 1]
+		},
+		{
+			"id": "NUMTE",
+			"title": "Number of Teams",
+			"selected": "1",
+			"option": [2, 1]
+		},
+		{
+			"id": "PICK",
+			"title": "Draft Pick Value",
+			"selected": "6",
+			"option": ["H", "M", "L"]
+		}
+	],
+	"teams": {
+		"t1p1": {
+			"player": "",
+			"score": ""
+		},
+		"t1p2": {
+			"player": "",
+			"score": ""
+		},
+		"t1p3": {
+			"player": "",
+			"score": ""
+		},
+		"t1p4": {
+			"player": "",
+			"score": ""
+		},
+		"t1p5": {
+			"player": "",
+			"score": ""
+		},
+		"t1p6": {
+			"player": "",
+			"score": ""
+		},
+		"t1p7": {
+			"player": "",
+			"score": ""
+		},
+		"t1p8": {
+			"player": "",
+			"score": ""
+		},
+
+		"t2p1": {
+			"player": "",
+			"score": ""
+		},
+		"t2p2": {
+			"player": "",
+			"score": ""
+		},
+		"t2p3": {
+			"player": "",
+			"score": ""
+		},
+		"t2p4": {
+			"player": "",
+			"score": ""
+		},
+		"t2p5": {
+			"player": "",
+			"score": ""
+		},
+		"t2p6": {
+			"player": "",
+			"score": ""
+		},
+		"t2p7": {
+			"player": "",
+			"score": ""
+		},
+		"t2p8": {
+			"player": "",
+			"score": ""
+		},
+
+		"t3p1": {
+			"player": "",
+			"score": ""
+		},
+		"t3p2": {
+			"player": "",
+			"score": ""
+		},
+		"t3p3": {
+			"player": "",
+			"score": ""
+		},
+		"t3p4": {
+			"player": "",
+			"score": ""
+		},
+		"t3p5": {
+			"player": "",
+			"score": ""
+		},
+		"t3p6": {
+			"player": "",
+			"score": ""
+		},
+		"t3p7": {
+			"player": "",
+			"score": "0"
+		},
+		"t3p8": {
+			"player": "",
+			"score": "0"
+		},
+
+		"t4p1": {
+			"player": "",
+			"score": "0"
+		},
+		"t4p2": {
+			"player": "",
+			"score": ""
+		},
+		"t4p3": {
+			"player": "",
+			"score": ""
+		},
+		"t4p4": {
+			"player": "",
+			"score": ""
+		},
+		"t4p5": {
+			"player": "",
+			"score": ""
+		},
+		"t4p6": {
+			"player": "",
+			"score": ""
+		},
+		"t4p7": {
+			"player": "",
+			"score": ""
+		},
+		"t4p8": {
+			"player": "",
+			"score": ""
+		}
+	},
+	"players": ["asutosh", "ajaya", "bijay", "binod", "kiran", "komal", "hasina", "dena", "john", "johhny", "markus", "magnus", "arnold", "crome", "craige", "doma", "harison", "zorb", "jira", "zebra", "corwn", "juber", "van", "korb", "monkey", "donkey"]
+}
